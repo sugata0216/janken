@@ -1,0 +1,2 @@
+# janken
+gitの演習
